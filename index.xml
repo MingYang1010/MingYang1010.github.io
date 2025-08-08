@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ming's Blog</title><link>https://mingyang1010.github.io/</link><description>Recent content on Ming's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>YM</copyright><lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mingyang1010.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>https://mingyang1010.github.io/archives/</link><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/archives/</guid><description/></item><item><title>Publications</title><link>https://mingyang1010.github.io/publications/</link><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/publications/</guid><description>&lt;div style="display: flex; align-items: center; gap: 20px;">
+&lt;div style="flex: 1; max-width: 300px;">
+&lt;img src="https://mingyang1010.github.io/img/decoop.png" alt="DeCoOp" style="width: 100%; height: auto; border-radius: 8px;" />
+&lt;/div>
+&lt;div style="flex: 2;">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>DeCoOp: Robust Prompt Tuning with Out-of-Distribution Detection&lt;/strong>&lt;/p>
+&lt;p>Zhi Zhou, &lt;strong>Ming Yang&lt;/strong>, Jiang-Xin Shi, Lan-Zhe Guo, Yu-Feng Li&lt;/p>
+&lt;p>In: Proceedings of the 41th International Conference on Machine Learning, Vienna, 2024.&lt;/p>
+&lt;p>ICML 2024. CCF-A. 📄 &lt;a class="link" href="https://arxiv.org/pdf/2406.00345.pdf" target="_blank" rel="noopener"
+>[Paper]&lt;/a> 🏠 &lt;a class="link" href="https://zhouz.dev/DeCoOp" target="_blank" rel="noopener"
+>[Page]&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>remote SSH 连接vscode存在的问题解决方案</title><link>https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid><description>&lt;!-- +++
+author = "Hugo Authors"
+title = "Rich Content"
+date = "2019-03-10"
+description = "A brief description of Hugo Shortcodes"
+tags = [
+"shortcodes",
+"privacy",
+]
++++ -->
+&lt;h2 id="服务器卡在downloading-with-wget">服务器卡在downloading with wget
+&lt;/h2>&lt;p>步骤：&lt;/p>
+&lt;p>​ 1.如图找到commit id&lt;/p>
+&lt;p>&lt;img src="https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150145873.png"
+width="989"
+height="509"
+srcset="https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150145873_hu_4a973c17989381ae.png 480w, https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150145873_hu_73a11524b5884c1e.png 1024w"
+loading="lazy"
+alt="image-20230909150145873"
+class="gallery-image"
+data-flex-grow="194"
+data-flex-basis="466px"
+>&lt;/p>
+&lt;p>​ 2.将该链接commit部分替换成自己的commit id&lt;/p>
+&lt;p>​ &lt;a class="link" href="https://update.code.visualstudio.com/commit:1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/server-linux-x64/stable" target="_blank" rel="noopener"
+>链接&lt;/a>&lt;/p>
+&lt;p>​ 3.从链接下载文件，可能需要科学上网&lt;/p>
+&lt;p>&lt;img src="https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150535794.png"
+width="2256"
+height="1244"
+srcset="https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150535794_hu_d8f2e5881b9f04e6.png 480w, https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150535794_hu_c4438ee01f08514.png 1024w"
+loading="lazy"
+alt="image-20230909150535794"
+class="gallery-image"
+data-flex-grow="181"
+data-flex-basis="435px"
+>&lt;/p>
+&lt;ol start="4">
+&lt;li>
+&lt;p>本地SSH连接服务器，将下载好的文件复制到服务器上，路径一般是/home/username/.&lt;a class="link" href="https://so.csdn.net/so/search?q=vscode&amp;amp;spm=1001.2101.3001.7020" target="_blank" rel="noopener"
+>vscode&lt;/a>-server/bin/*&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>再依次输入一下命令&lt;/p>
+&lt;p>&lt;code>cd ~/.vscode-server/bin/*/ tar -zxvf vscode-server-linux-x64.tar.gz -C ./ mv vscode-server-linux-x64/* .&lt;/code>&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>About Me</title><link>https://mingyang1010.github.io/about-me/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/about-me/</guid><description>&lt;p>👤 &lt;strong>Biography&lt;/strong>&lt;/p>
+&lt;p>I am a graduate student at &lt;a class="link" href="http://ai.nju.edu.cn/" target="_blank" rel="noopener"
+>School of Artificial Intelligence&lt;/a> of &lt;a class="link" href="https://www.nju.edu.cn/" target="_blank" rel="noopener"
+>Nanjing University&lt;/a> advised by Professor &lt;a class="link" href="https://cs.nju.edu.cn/liyf/index.htm" target="_blank" rel="noopener"
+>Yu-Feng Li (李宇峰)&lt;/a>, and a member of &lt;a class="link" href="https://www.lamda.nju.edu.cn/CH.MainPage.ashx" target="_blank" rel="noopener"
+>LAMDA Group (机器学习与数据挖掘研究所)&lt;/a>, which is led by Professor &lt;a class="link" href="https://cs.nju.edu.cn/zhouzh/index.htm" target="_blank" rel="noopener"
+>Zhi-Hua Zhou (周志华)&lt;/a>.&lt;/p>
+&lt;p>I received my B.Sc. degree from &lt;a class="link" href="https://cs.nuaa.edu.cn/" target="_blank" rel="noopener"
+>College of Computer Science &amp;amp; Technology&lt;/a>, &lt;a class="link" href="https://www.nuaa.edu.cn/" target="_blank" rel="noopener"
+>Nanjing University of Aeronautics and Astronautics&lt;/a> in June 2024. In September of the same year, I was admitted to study for a M.Sc. degree at Nanjing University without an entrance examination.&lt;/p>
+&lt;p>✉️ &lt;strong>Email&lt;/strong>&lt;/p>
+&lt;p>&lt;a class="link" href="mailto:yangm@lamda.nju.edu.cn" >yangm@lamda.nju.edu.cn&lt;/a>&lt;/p>
+&lt;p>📌 &lt;strong>Address&lt;/strong>:&lt;/p>
+&lt;p>Ming Yang, National Key Laboratory for Novel Software Technology, Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China.&lt;/p>
+&lt;p>(南京市栖霞区仙林大道163号, 南京大学仙林校区, 软件新技术国家重点实验室, 210023.)&lt;/p></description></item><item><title>Links</title><link>https://mingyang1010.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://mingyang1010.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/search/</guid><description/></item></channel></rss>

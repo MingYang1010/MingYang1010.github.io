@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SSH on Ming's Blog</title><link>https://mingyang1010.github.io/tags/ssh/</link><description>Recent content in SSH on Ming's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>YM</copyright><lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mingyang1010.github.io/tags/ssh/index.xml" rel="self" type="application/rss+xml"/><item><title>remote SSH 连接vscode存在的问题解决方案</title><link>https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid><description>&lt;!-- +++
+author = "Hugo Authors"
+title = "Rich Content"
+date = "2019-03-10"
+description = "A brief description of Hugo Shortcodes"
+tags = [
+"shortcodes",
+"privacy",
+]
++++ -->
+&lt;h2 id="服务器卡在downloading-with-wget">服务器卡在downloading with wget
+&lt;/h2>&lt;p>步骤：&lt;/p>
+&lt;p>​ 1.如图找到commit id&lt;/p>
+&lt;p>&lt;img src="https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150145873.png"
+width="989"
+height="509"
+srcset="https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150145873_hu_4a973c17989381ae.png 480w, https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150145873_hu_73a11524b5884c1e.png 1024w"
+loading="lazy"
+alt="image-20230909150145873"
+class="gallery-image"
+data-flex-grow="194"
+data-flex-basis="466px"
+>&lt;/p>
+&lt;p>​ 2.将该链接commit部分替换成自己的commit id&lt;/p>
+&lt;p>​ &lt;a class="link" href="https://update.code.visualstudio.com/commit:1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/server-linux-x64/stable" target="_blank" rel="noopener"
+>链接&lt;/a>&lt;/p>
+&lt;p>​ 3.从链接下载文件，可能需要科学上网&lt;/p>
+&lt;p>&lt;img src="https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150535794.png"
+width="2256"
+height="1244"
+srcset="https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150535794_hu_d8f2e5881b9f04e6.png 480w, https://mingyang1010.github.io/p/remote-ssh-%E8%BF%9E%E6%8E%A5vscode%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/image-20230909150535794_hu_c4438ee01f08514.png 1024w"
+loading="lazy"
+alt="image-20230909150535794"
+class="gallery-image"
+data-flex-grow="181"
+data-flex-basis="435px"
+>&lt;/p>
+&lt;ol start="4">
+&lt;li>
+&lt;p>本地SSH连接服务器，将下载好的文件复制到服务器上，路径一般是/home/username/.&lt;a class="link" href="https://so.csdn.net/so/search?q=vscode&amp;amp;spm=1001.2101.3001.7020" target="_blank" rel="noopener"
+>vscode&lt;/a>-server/bin/*&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>再依次输入一下命令&lt;/p>
+&lt;p>&lt;code>cd ~/.vscode-server/bin/*/ tar -zxvf vscode-server-linux-x64.tar.gz -C ./ mv vscode-server-linux-x64/* .&lt;/code>&lt;/p>
+&lt;/li>
+&lt;/ol></description></item></channel></rss>
