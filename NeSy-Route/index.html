@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing">
+  <meta property="og:title" content="NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing"/>
+  <meta property="og:description" content="NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing"/>
+  <meta property="og:url" content="https://mingyang1010.github.io/NeSy-Route/"/>
+  <meta name="keywords" content="Remote Sensing, Route Planning, Benchmark, Multimodal Large Language Models, Neuro-Symbolic AI">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing</title>
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+</head>
+<body>
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">NeSy-Route: A Neuro-Symbolic Benchmark<br>for Constrained Route Planning in Remote Sensing</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><a href="https://mingyang1010.github.io/" target="_blank" rel="noopener">Ming Yang</a><sup>1,2</sup>,</span>
+              <span class="author-block"><a href="https://zhouz.dev/" target="_blank" rel="noopener">Zhi Zhou</a><sup>1,*</sup>,</span>
+              <span class="author-block"><a href="https://jokersio-tsy.github.io/" target="_blank" rel="noopener">Shi-Yu Tian</a><sup>1,2</sup>,</span>
+              <span class="author-block"><a href="https://kunyang-yu.github.io/" target="_blank" rel="noopener">Kun-Yang Yu</a><sup>1,2</sup>,</span>
+              <span class="author-block"><a href="https://www.lamda.nju.edu.cn/guolz/" target="_blank" rel="noopener">Lan-Zhe Guo</a><sup>1,3</sup>,</span>
+              <span class="author-block"><a href="https://cs.nju.edu.cn/liyf/" target="_blank" rel="noopener">Yu-Feng Li</a><sup>1,2,*</sup></span>
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup>1</sup> State Key Laboratory for Novel Software Technology, Nanjing University, China</span>
+              <span class="eql-cntrb"><br><small><sup>2</sup> School of Artifical Intelligence, Nanjing University, China</small></span>
+              <span class="eql-cntrb"><br><small><sup>3</sup> School of Intelligence Science and Technology, Nanjing University, China</small></span>
+              <span class="eql-cntrb"><br><small><sup>*</sup> Corresponding Authors</small></span>
+              <span class="eql-cntrb"><br><small><a href="mailto:yangm@lamda.nju.edu.cn">yangm@lamda.nju.edu.cn</a></small></span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2603.16307" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="ai ai-arxiv"></i></span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://github.com/MingYang1010/NeSy-Route" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fab fa-github"></i></span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://huggingface.co/datasets/Ming1010/NeSy-Route" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon hf-icon"><img src="./static/images/huggingface.svg" alt="Hugging Face"></span>
+                    <span>Datasets</span>
+                  </a>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              Remote sensing underpins crucial applications such as disaster relief and ecological field surveys, where systems must understand complex scenes and constraints and make reliable decisions. Current remote-sensing benchmarks mainly focus on evaluating perception and reasoning capabilities of multimodal large language models (MLLMs). They fail to assess planning capability, stemming either from the difficulty of curating and validating planning tasks at scale or from evaluation protocols that are inaccurate and inadequate. To address these limitations, we introduce NeSy-Route, a large-scale neuro-symbolic benchmark for constrained route planning in remote sensing. Within this benchmark, we introduce an automated data-generation framework that integrates high-fidelity semantic masks with heuristic search to produce diverse route-planning tasks with provably optimal solutions. This allows NeSy-Route to comprehensively evaluate planning across 10,821 route-planning samples, nearly 10 times larger than the largest prior benchmark. Furthermore, a three-level hierarchical neuro-symbolic evaluation protocol is developed to enable accurate assessment and support fine-grained analysis on perception, reasoning, and planning simultaneously. Our comprehensive evaluation of various state-of-the-art MLLMs demonstrates that existing MLLMs show significant deficiencies in perception and planning capabilities. We hope NeSy-Route can support further research and development of more powerful MLLMs for remote sensing.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered has-text-centered">
+          <div class="column">
+            <h2 class="title is-3">Benchmark Overview</h2>
+            <div class="item">
+              <a href="./static/images/benchmark.pdf" target="_blank" rel="noopener" style="display: block; width: 100%;">
+                <img style="width: 100%;" src="./static/images/benchmark.png" alt="NeSy-Route Benchmark Overview"/>
+              </a>
+              <h2 class="subtitle">Figure: Overall illustration of the NeSy-Route benchmark.</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@article{yang2026nesyroute,
+  title   = {NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing},
+  author  = {Ming Yang and Zhi Zhou and Shi-Yu Tian and Kun-Yang Yu and Lan-Zhe Guo and Yu-Feng Li},
+  journal = {arXiv preprint arXiv:2603.16307},
+  year    = {2026}
+}</code></pre>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank" rel="noopener">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank" rel="noopener">Nerfies</a> project page.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

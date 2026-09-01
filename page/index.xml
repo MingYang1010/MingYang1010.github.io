@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Ming Yang (杨铭)</title><link>https://mingyang1010.github.io/page/</link><description>Recent content in Pages on Ming Yang (杨铭)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>YM</copyright><lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mingyang1010.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog</title><link>https://mingyang1010.github.io/blog/</link><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/blog/</guid><description/></item><item><title>About Me</title><link>https://mingyang1010.github.io/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/about-me/</guid><description>&lt;div class="homepage-about-heading"&gt;
+&lt;h2 id="about-me"&gt;About Me&lt;/h2&gt;
+&lt;div class="homepage-about-logos" aria-label="Affiliations"&gt;
+&lt;a href="https://www.lamda.nju.edu.cn/" target="_blank" rel="noopener" aria-label="LAMDA Group"&gt;
+&lt;img src="https://mingyang1010.github.io/img/lamda_logo.png" alt="LAMDA Group" /&gt;
+&lt;/a&gt;
+&lt;a href="https://www.nju.edu.cn/" target="_blank" rel="noopener" aria-label="Nanjing University"&gt;
+&lt;img src="https://mingyang1010.github.io/img/nju_logo.png" alt="Nanjing University" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;I am Ming Yang (杨铭), a first-year Ph.D. student in the M.S.-Ph.D. track at the &lt;a class="link" href="http://ai.nju.edu.cn/" target="_blank" rel="noopener"
+&gt;School of Artificial Intelligence&lt;/a&gt; of &lt;a class="link" href="https://www.nju.edu.cn/" target="_blank" rel="noopener"
+&gt;Nanjing University&lt;/a&gt;, advised by Professor &lt;a class="link" href="https://cs.nju.edu.cn/liyf/index.htm" target="_blank" rel="noopener"
+&gt;Yu-Feng Li (李宇峰)&lt;/a&gt;, and a member of the &lt;a class="link" href="https://www.lamda.nju.edu.cn/CH.MainPage.ashx" target="_blank" rel="noopener"
+&gt;LAMDA Group (机器学习与数据挖掘研究所)&lt;/a&gt;, led by Professor &lt;a class="link" href="https://cs.nju.edu.cn/zhouzh/index.htm" target="_blank" rel="noopener"
+&gt;Zhi-Hua Zhou (周志华)&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="biography"&gt;Biography
+&lt;/h2&gt;&lt;div class="biography-list"&gt;
+&lt;div class="biography-row"&gt;
+&lt;span&gt;2024.09 - Present&lt;/span&gt;
+&lt;span&gt;M.S.-Ph.D. Program in Artificial Intelligence, Nanjing University (Ph.D. stage from 2026.09)&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="biography-row"&gt;
+&lt;span&gt;2020.09 - 2024.06&lt;/span&gt;
+&lt;span&gt;B.Sc. in Computer Science and Technology, Nanjing University of Aeronautics and Astronautics&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="research-interests"&gt;Research Interests
+&lt;/h2&gt;&lt;p&gt;My research focuses on reliable multimodal intelligence, particularly reasoning, planning, and test-time adaptation. I also explore neuro-symbolic methods and agentic foundation models for remote sensing.&lt;/p&gt;
+&lt;h2 id="academic-service"&gt;Academic Service
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Conference Reviewer:&lt;/strong&gt; ICLR 2025; ICML 2025, 2026; KDD 2025; IJCAI 2025, 2026; ACML 2026.&lt;/p&gt;</description></item><item><title>Links</title><link>https://mingyang1010.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/links/</guid><description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;links&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.com&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;</description></item><item><title>Publications</title><link>https://mingyang1010.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/publications/</guid><description>&lt;h2 id="2026"&gt;2026
+&lt;/h2&gt;&lt;article class="publication-entry"&gt;
+&lt;h3&gt;NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing&lt;/h3&gt;
+&lt;div class="publication-entry__content"&gt;&lt;strong&gt;&lt;a class="link" href="https://mingyang1010.github.io/" target="_blank" rel="noopener"
+&gt;Ming Yang&lt;/a&gt;&lt;/strong&gt;, &lt;a class="link" href="https://zhouz.dev/" target="_blank" rel="noopener"
+&gt;Zhi Zhou&lt;/a&gt;&lt;sup&gt;†&lt;/sup&gt;, &lt;a class="link" href="https://jokersio-tsy.github.io/" target="_blank" rel="noopener"
+&gt;Shi-Yu Tian&lt;/a&gt;, &lt;a class="link" href="https://kunyang-yu.github.io/" target="_blank" rel="noopener"
+&gt;Kun-Yang Yu&lt;/a&gt;, &lt;a class="link" href="https://www.lamda.nju.edu.cn/guolz/" target="_blank" rel="noopener"
+&gt;Lan-Zhe Guo&lt;/a&gt;, &lt;a class="link" href="https://cs.nju.edu.cn/liyf/" target="_blank" rel="noopener"
+&gt;Yu-Feng Li&lt;/a&gt;&lt;sup&gt;†&lt;/sup&gt;&lt;br&gt;
+&lt;a class="link" href="https://arxiv.org/abs/2603.16307" target="_blank" rel="noopener"
+&gt;[Paper]&lt;/a&gt; &lt;a class="link" href="https://mingyang1010.github.io/NeSy-Route/" &gt;[Project]&lt;/a&gt; &lt;a class="link" href="https://github.com/MingYang1010/NeSy-Route" target="_blank" rel="noopener"
+&gt;[Code]&lt;/a&gt; &lt;a class="link" href="https://huggingface.co/datasets/Ming1010/NeSy-Route" target="_blank" rel="noopener"
+&gt;[Data]&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Proceedings of the 19th European Conference on Computer Vision (ECCV 2026)&lt;/p&gt;
+&lt;div class="publication-entry__meta"&gt;&lt;span&gt;CCF-B, CAAI-A&lt;/span&gt;&lt;/div&gt;
+&lt;/article&gt;
+&lt;article class="publication-entry"&gt;
+&lt;h3&gt;On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective&lt;/h3&gt;
+&lt;div class="publication-entry__content"&gt;&lt;a class="link" href="https://zhouz.dev/" target="_blank" rel="noopener"
+&gt;Zhi Zhou&lt;/a&gt;, &lt;strong&gt;&lt;a class="link" href="https://mingyang1010.github.io/" target="_blank" rel="noopener"
+&gt;Ming Yang&lt;/a&gt;&lt;/strong&gt;, &lt;a class="link" href="https://jokersio-tsy.github.io/" target="_blank" rel="noopener"
+&gt;Shi-Yu Tian&lt;/a&gt;, &lt;a class="link" href="https://kunyang-yu.github.io/" target="_blank" rel="noopener"
+&gt;Kun-Yang Yu&lt;/a&gt;, &lt;a class="link" href="https://www.lamda.nju.edu.cn/guolz/" target="_blank" rel="noopener"
+&gt;Lan-Zhe Guo&lt;/a&gt;, &lt;a class="link" href="https://cs.nju.edu.cn/liyf/" target="_blank" rel="noopener"
+&gt;Yu-Feng Li&lt;/a&gt;&lt;sup&gt;†&lt;/sup&gt;&lt;br&gt;
+&lt;a class="link" href="https://arxiv.org/abs/2605.28057" target="_blank" rel="noopener"
+&gt;[Paper]&lt;/a&gt; &lt;a class="link" href="https://zhouz.dev/TTA-Learnability/" target="_blank" rel="noopener"
+&gt;[Project]&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)&lt;/p&gt;
+&lt;div class="publication-entry__meta"&gt;&lt;span&gt;CCF-A&lt;/span&gt;&lt;/div&gt;
+&lt;/article&gt;
+&lt;article class="publication-entry"&gt;
+&lt;h3&gt;TabularMath: Understanding Math Reasoning over Tables with Large Language Models&lt;/h3&gt;
+&lt;div class="publication-entry__content"&gt;&lt;a class="link" href="https://jokersio-tsy.github.io/" target="_blank" rel="noopener"
+&gt;Shi-Yu Tian&lt;/a&gt;, &lt;a class="link" href="https://zhouz.dev/" target="_blank" rel="noopener"
+&gt;Zhi Zhou&lt;/a&gt;, &lt;a class="link" href="https://orcid.org/0009-0008-8541-5235" target="_blank" rel="noopener"
+&gt;Wei Dong&lt;/a&gt;, &lt;a class="link" href="https://kunyang-yu.github.io/" target="_blank" rel="noopener"
+&gt;Kun-Yang Yu&lt;/a&gt;, &lt;strong&gt;&lt;a class="link" href="https://mingyang1010.github.io/" target="_blank" rel="noopener"
+&gt;Ming Yang&lt;/a&gt;&lt;/strong&gt;, &lt;a class="link" href="https://orcid.org/0009-0004-3123-8262" target="_blank" rel="noopener"
+&gt;Zi-Jian Cheng&lt;/a&gt;, &lt;a class="link" href="https://www.lamda.nju.edu.cn/guolz/" target="_blank" rel="noopener"
+&gt;Lan-Zhe Guo&lt;/a&gt;, &lt;a class="link" href="https://cs.nju.edu.cn/liyf/" target="_blank" rel="noopener"
+&gt;Yu-Feng Li&lt;/a&gt;&lt;sup&gt;†&lt;/sup&gt;&lt;br&gt;
+&lt;a class="link" href="https://aclanthology.org/2026.findings-acl.759/" target="_blank" rel="noopener"
+&gt;[Paper]&lt;/a&gt; &lt;a class="link" href="https://jokersio-tsy.github.io/projects/tabularmath/index.html" target="_blank" rel="noopener"
+&gt;[Project]&lt;/a&gt; &lt;a class="link" href="https://github.com/jokersio-tsy/AutoT2T" target="_blank" rel="noopener"
+&gt;[Code]&lt;/a&gt; &lt;a class="link" href="https://huggingface.co/datasets/kevin715/TabularMath" target="_blank" rel="noopener"
+&gt;[Data]&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Findings of the Association for Computational Linguistics: The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)&lt;/p&gt;
+&lt;/article&gt;
+&lt;h2 id="2025"&gt;2025
+&lt;/h2&gt;&lt;article class="publication-entry"&gt;
+&lt;h3&gt;VCSearch: Bridging the Gap Between Well-Defined and Ill-Defined Problems in Mathematical Reasoning&lt;/h3&gt;
+&lt;div class="publication-entry__content"&gt;&lt;a class="link" href="https://jokersio-tsy.github.io/" target="_blank" rel="noopener"
+&gt;Shi-Yu Tian&lt;/a&gt;*, &lt;a class="link" href="https://zhouz.dev/" target="_blank" rel="noopener"
+&gt;Zhi Zhou&lt;/a&gt;*, &lt;a class="link" href="https://kunyang-yu.github.io/" target="_blank" rel="noopener"
+&gt;Kun-Yang Yu&lt;/a&gt;, &lt;strong&gt;&lt;a class="link" href="https://mingyang1010.github.io/" target="_blank" rel="noopener"
+&gt;Ming Yang&lt;/a&gt;&lt;/strong&gt;, &lt;a class="link" href="https://www.lamda.nju.edu.cn/jialh/" target="_blank" rel="noopener"
+&gt;Lin-Han Jia&lt;/a&gt;, &lt;a class="link" href="https://www.lamda.nju.edu.cn/guolz/" target="_blank" rel="noopener"
+&gt;Lan-Zhe Guo&lt;/a&gt;, &lt;a class="link" href="https://cs.nju.edu.cn/liyf/" target="_blank" rel="noopener"
+&gt;Yu-Feng Li&lt;/a&gt;&lt;sup&gt;†&lt;/sup&gt;&lt;br&gt;
+&lt;a class="link" href="https://arxiv.org/abs/2406.05055" target="_blank" rel="noopener"
+&gt;[Paper]&lt;/a&gt; &lt;a class="link" href="https://jokersio-tsy.github.io/projects/vcsearch/index.html" target="_blank" rel="noopener"
+&gt;[Project]&lt;/a&gt; &lt;a class="link" href="https://jokersio-tsy.github.io/src/papers/VCSearch_poster.pdf" target="_blank" rel="noopener"
+&gt;[Poster]&lt;/a&gt; &lt;a class="link" href="https://github.com/jokersio-tsy/VCSearch" target="_blank" rel="noopener"
+&gt;[Code]&lt;/a&gt; &lt;a class="link" href="https://huggingface.co/datasets/kevin715/PMC" target="_blank" rel="noopener"
+&gt;[Data]&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)&lt;/p&gt;
+&lt;div class="publication-entry__meta"&gt;&lt;span&gt;CCF-B, CAAI-A, Oral&lt;/span&gt;&lt;/div&gt;
+&lt;/article&gt;
+&lt;article class="publication-entry"&gt;
+&lt;h3&gt;BMIP: Bi-directional Modality Interaction Prompt Learning for VLM&lt;/h3&gt;
+&lt;div class="publication-entry__content"&gt;&lt;a class="link" href="https://www.semanticscholar.org/author/2340193000" target="_blank" rel="noopener"
+&gt;Song-Lin Lv&lt;/a&gt;, &lt;a class="link" href="https://www.semanticscholar.org/author/2340140803" target="_blank" rel="noopener"
+&gt;Yu-Yang Chen&lt;/a&gt;, &lt;a class="link" href="https://zhouz.dev/" target="_blank" rel="noopener"
+&gt;Zhi Zhou&lt;/a&gt;, &lt;strong&gt;&lt;a class="link" href="https://mingyang1010.github.io/" target="_blank" rel="noopener"
+&gt;Ming Yang&lt;/a&gt;&lt;/strong&gt;, &lt;a class="link" href="https://www.lamda.nju.edu.cn/guolz/" target="_blank" rel="noopener"
+&gt;Lan-Zhe Guo&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="https://www.ijcai.org/proceedings/2025/655" target="_blank" rel="noopener"
+&gt;[Paper]&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)&lt;/p&gt;
+&lt;div class="publication-entry__meta"&gt;&lt;span&gt;CCF-A&lt;/span&gt;&lt;/div&gt;
+&lt;/article&gt;
+&lt;h2 id="2024"&gt;2024
+&lt;/h2&gt;&lt;article class="publication-entry"&gt;
+&lt;h3&gt;DeCoOp: Robust Prompt Tuning with Out-of-Distribution Detection&lt;/h3&gt;
+&lt;div class="publication-entry__content"&gt;&lt;a class="link" href="https://zhouz.dev/" target="_blank" rel="noopener"
+&gt;Zhi Zhou&lt;/a&gt;, &lt;strong&gt;&lt;a class="link" href="https://mingyang1010.github.io/" target="_blank" rel="noopener"
+&gt;Ming Yang&lt;/a&gt;&lt;/strong&gt;, &lt;a class="link" href="https://www.lamda.nju.edu.cn/shijx/" target="_blank" rel="noopener"
+&gt;Jiang-Xin Shi&lt;/a&gt;, &lt;a class="link" href="https://www.lamda.nju.edu.cn/guolz/" target="_blank" rel="noopener"
+&gt;Lan-Zhe Guo&lt;/a&gt;, &lt;a class="link" href="https://cs.nju.edu.cn/liyf/" target="_blank" rel="noopener"
+&gt;Yu-Feng Li&lt;/a&gt;&lt;sup&gt;†&lt;/sup&gt;&lt;br&gt;
+&lt;a class="link" href="https://arxiv.org/pdf/2406.00345.pdf" target="_blank" rel="noopener"
+&gt;[Paper]&lt;/a&gt; &lt;a class="link" href="https://zhouz.dev/DeCoOp" target="_blank" rel="noopener"
+&gt;[Project]&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Proceedings of the 41st International Conference on Machine Learning (ICML 2024)&lt;/p&gt;
+&lt;div class="publication-entry__meta"&gt;&lt;span&gt;CCF-A&lt;/span&gt;&lt;/div&gt;
+&lt;/article&gt;
+&lt;p&gt;* indicates co-first authors.&lt;br&gt;
+&lt;sup&gt;†&lt;/sup&gt; indicates corresponding authors.&lt;/p&gt;</description></item><item><title>Search</title><link>https://mingyang1010.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mingyang1010.github.io/search/</guid><description/></item></channel></rss>

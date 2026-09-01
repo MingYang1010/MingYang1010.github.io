@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "author": {
+    "id": "iOQobvoAAAAJ",
+    "name": "Ming Yang",
+    "affiliations": "Nanjing University",
+    "scholar_url": "https://scholar.google.com/citations?user=iOQobvoAAAAJ"
+  },
+  "metrics": {
+    "citations": {
+      "all": 37,
+      "recent": 37
+    },
+    "h_index": {
+      "all": 3,
+      "recent": 3
+    },
+    "i10_index": {
+      "all": 2,
+      "recent": 2
+    }
+  },
+  "papers": [
+    {
+      "paper_id": "iOQobvoAAAAJ:u5HHmVD_uO8C",
+      "title": "Decoop: Robust prompt tuning with out-of-distribution detection",
+      "authors": "",
+      "publication": "",
+      "year": "2024",
+      "link": "",
+      "citations": 17
+    },
+    {
+      "paper_id": "iOQobvoAAAAJ:d1gkVwhDpl0C",
+      "title": "Vcsearch: Bridging the gap between well-defined and ill-defined problems in mathematical reasoning",
+      "authors": "",
+      "publication": "",
+      "year": "2025",
+      "link": "",
+      "citations": 10
+    },
+    {
+      "paper_id": "iOQobvoAAAAJ:u-x6o8ySG0sC",
+      "title": "BMIP: Bi-directional modality interaction prompt learning for VLM",
+      "authors": "",
+      "publication": "",
+      "year": "2025",
+      "link": "",
+      "citations": 4
+    },
+    {
+      "paper_id": "iOQobvoAAAAJ:2osOgNQ5qMEC",
+      "title": "Tabularmath: Understanding math reasoning over tables with large language models",
+      "authors": "",
+      "publication": "",
+      "year": "2026",
+      "link": "",
+      "citations": 3
+    },
+    {
+      "paper_id": "iOQobvoAAAAJ:9yKSN-GCB0IC",
+      "title": "NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing",
+      "authors": "",
+      "publication": "",
+      "year": "2026",
+      "link": "",
+      "citations": 3
+    },
+    {
+      "paper_id": "iOQobvoAAAAJ:qjMakFHDy7sC",
+      "title": "On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective",
+      "authors": "",
+      "publication": "",
+      "year": "2026",
+      "link": "",
+      "citations": 0
+    }
+  ],
+  "history": {
+    "dates": [
+      "2026-08-06",
+      "2026-08-09",
+      "2026-08-11",
+      "2026-08-24",
+      "2026-08-28",
+      "2026-09-01"
+    ],
+    "total": [
+      35,
+      36,
+      36,
+      36,
+      36,
+      37
+    ],
+    "by_paper": {
+      "iOQobvoAAAAJ:u5HHmVD_uO8C": [
+        17,
+        17,
+        17,
+        17,
+        17,
+        17
+      ],
+      "iOQobvoAAAAJ:d1gkVwhDpl0C": [
+        9,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "iOQobvoAAAAJ:u-x6o8ySG0sC": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "iOQobvoAAAAJ:2osOgNQ5qMEC": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "iOQobvoAAAAJ:9yKSN-GCB0IC": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "iOQobvoAAAAJ:qjMakFHDy7sC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "updated_at": "2026-09-01T07:41:58+00:00"
+}
